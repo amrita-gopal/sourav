@@ -17,5 +17,7 @@ bnbnb
 hello
 hello-world
 hasjhj
+
+
 docker push amritagopal/tect:tagname
 docker push amritagopal/tect:tagname
